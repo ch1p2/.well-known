@@ -1,0 +1,8 @@
+{
+    "m.homeserver": {
+        "base_url": "https://t5.wwwww.wtf"
+    },
+    "m.identity_server": {
+        "base_url": "https://t5.wwwww.wtf"
+    }
+}
